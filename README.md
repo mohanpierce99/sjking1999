@@ -29,9 +29,9 @@
 
 ⚡: Fun fact: Won 12/16 Hackathons participated 😋
 
-🌎: Freelanced for building [26 web3 projects](http://www.careerwise.in/)
+🌎: Freelanced for building [26 web3 projects](https://drive.google.com/file/d/1jVdlpi5JbVj1UkzILpiXs1TXz2bGxkdy/view)
 
-📫: How to reach me **lksujins@gmail.com**
+📫: How to reach me **sujinkingselin@gmail.com**
 
 <br>
 
