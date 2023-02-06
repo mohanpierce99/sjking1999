@@ -37,7 +37,7 @@
 
 ### My Mad Science projects
 
-🚀 My Modern Portfolio site - Built in React, advanced CSS and GSAP (Animation library) Checkout the [site](https://sujin.vercel.app/).
+🚀 My Modern Portfolio site - Built in React, advanced CSS and GSAP (Animation library). Checkout the [site](https://sujin.vercel.app/).
 
 🚀 Teleport - A Google meet for files with the convenience of airdrop - Third prize Winner at Inout 7.0 (India's Biggest community hackathon). Won a grant of 1 Lakh via quadratic funding to run the product as a social good for everyone to use. Checkout the [demo and submission](https://devfolio.co/projects/teleport)
 
