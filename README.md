@@ -67,9 +67,9 @@ Stegcloak was also featured in [Awesome-nodejs](https://github.com/sindresorhus/
 ](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787?source=---------2------------------)
 
 [Winning first place in India and bagging 5000$ — Facebook International hackathon 2019
-](https://medium.com/)
+](https://medium.com/@sjking1999/the-holiday-hack-d10cbc5a4fbd)
 
-[Holiday Hack - My experience and the ideas we worked on for winning 3 hackathons in a row during the fall of 2019](https://medium.com)
+[Holiday Hack - My experience and the ideas we worked on for winning 3 hackathons in a row during the fall of 2019](https://medium.com/@sjking1999/winning-first-place-in-india-facebook-developers-circle-community-challenge-2019-49a7052aa7df)
 <!-- BLOG-POST-LIST:END -->
 
 
