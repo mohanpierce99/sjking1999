@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack JS nerd and a hackathon veteran</h3>
 
 <p align="center">
-<a href="https://sujin.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="sujin" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://sujin.vercel.app/" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="sujin" height="50" width="50" /></a>&nbsp;&nbsp;
 <a  href="https://www.linkedin.com/in/sujink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/mohan-sundar-9881a7180/" height="50" width="50" /></a>&nbsp;&nbsp;
 <a href="mailto:lksujins@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36290185/215365227-e7534df4-efc1-4edc-8deb-4c463e1a8431.png" alt="gamil logo" height="40" width="50" /></a>
 </p>
