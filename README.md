@@ -45,8 +45,6 @@
 
 🚀 Sends and receives data through  ultrasonic waves using the web audio API in pure Javascript. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1598886336/demo_obb9eg.mp4) video.
 
-https://github.com/KuroLabs/sonicsensor
-
 
 ### Featured for my projects and hackathons in
 
