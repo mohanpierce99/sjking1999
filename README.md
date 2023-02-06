@@ -1,6 +1,5 @@
 <h2 align="center" >Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  I'm Sujin K. Welcome to my GitHub profile! </h2>
 <h3 align="center">A passionate fullstack JS nerd and a hackathon veteran</h3>
-<a href="https://sujin.vercel.app/"> My Portfolio site </a>
 
 <p align="center">
 <a href="https://sujin.surge.sh" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/aa8a2b94014737.Y3JvcCwzMzY2LDI2MzMsMCww.png" alt="sujin" height="50" width="50" /></a>&nbsp;&nbsp;
@@ -36,7 +35,9 @@
 
 <br>
 
-### My recent Mad Science projects
+### My Mad Science projects
+
+🚀 My Modern Portfolio site - Built in React, advanced CSS and GSAP (Animation library) Checkout the [site](https://sujin.vercel.app/).
 
 🚀 Teleport - A Google meet for files with the convenience of airdrop - Third prize Winner at Inout 7.0 (India's Biggest community hackathon). Won a grant of 1 Lakh via quadratic funding to run the product as a social good for everyone to use. Checkout the [demo and submission](https://devfolio.co/projects/teleport)
 
