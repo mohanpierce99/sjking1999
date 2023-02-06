@@ -37,6 +37,8 @@
 
 ### My recent Mad Science projects
 
+🚀 Teleport - A Google meet for files with the convenience of airdrop - Third prize Winner at Inout 7.0 (India's Biggest community hackathon). Won a grant of 1 Lakh via quadratic funding to run the product as a social good for everyone to use. Checkout the [demo and submission](https://devfolio.co/projects/teleport)
+
 🚀 CLI-React portfolio builder - Takes user details as JSON in and builds a beautiful React portfolio. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1599990241/reactfolio_fsehwp.mp4) video
 
 🚀 Sends and receives data through  ultrasonic waves using the web audio API in pure Javascript. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1598886336/demo_obb9eg.mp4) video.
@@ -68,9 +70,6 @@ Stegcloak was also featured in [Awesome-nodejs](https://github.com/sindresorhus/
 ](https://medium.com/)
 
 [Holiday Hack - My experience and the ideas we worked on for winning 3 hackathons in a row during the fall of 2019](https://medium.com)
-
-[David walsh's blog - Devising the Cloak of Invisibility in JavaScript
-](https://davidwalsh.name/javascript-steganography)
 <!-- BLOG-POST-LIST:END -->
 
 
